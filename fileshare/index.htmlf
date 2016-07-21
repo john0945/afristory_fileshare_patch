@@ -1,0 +1,16 @@
+<!-- version=2016.04.06 -->
+<div class="indexmodule">
+
+    <img src="<?php echo $dir ?>/logo.png" alt="File Share"></a>
+
+    <h2>File Share</a></h2>
+
+    <p>You can share files with other users by uploading them here</p>
+
+    <ul>
+	<li class="listhead"><a href="/mods/en-file_share/index.html">Upload files</a></li>
+    <li class="listhead"><a href="<?php echo $dir ?>/uploads.php/">View files</a></li>
+    </ul>
+
+</div>
+
